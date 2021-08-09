@@ -1,2 +1,2 @@
 # vendor_ANXCamera
-ANX Camera v.185 
+ANX Camera 3.0
